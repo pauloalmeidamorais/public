@@ -1,0 +1,56 @@
+a{
+    background-color:rgb(186, 247, 246)
+}
+.MenuInicial{
+    background-color: rgb(230,230,230);
+    font-size: 20px;
+}
+tr{
+    background-color: rgb(230,230,230);
+}
+.listaBonita{
+    background-color: white;
+    margin:20px 80px;
+    padding: 20px;
+    border: solid 2px gray;
+    border-radius: 20px;
+    border-top: dashed 10px rgb(146, 183, 154);
+}
+.estilopadrao{
+    background-color:#F5F5F5;
+}
+.estilodestacado{
+    background-color:#F0CCE2;
+}
+.texto{
+    margin: 40px;
+    padding: 20px;
+}
+tr .dadoPequeno{
+  text-align: center;  
+}
+.tDQModa tr th{
+    background-color: #BB86FC;
+}
+.tDQCasa tr th{
+    background-color: #00C4B4;
+}
+.divTDQModa{
+    display:inline-block;
+    background-color: #BB86FC;
+}
+.divTDQCasa{
+    display:inline-block;
+    background-color: #00C4B4;
+}
+.tableDevQuest tr td{
+   background-color: #424250;
+   color:white;
+}
+.tableTitle{
+    text-align: center;
+    color: rgb(247, 255, 212);
+    padding:0;
+    margin:0;
+    text-transform: uppercase;
+}
