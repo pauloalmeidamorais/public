@@ -1,5 +1,6 @@
+package javaTest;
 // Ignore it. Estou simplesmente fazendo um teste meu aqui.
-public class calcular {
+public class calcularTeste1 {
 
 	double mediaHomem = 0;
 	int qtdHomem = 0;
